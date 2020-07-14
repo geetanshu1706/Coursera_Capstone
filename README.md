@@ -38,8 +38,10 @@ o	We are going to go through each of the links of neighborhood and find the popu
 Data used in the analysis are listed below:
 
 •	First, collect the json dataset, which will contain borough, neighborhood, latitude and longitude information.
-•	neighborhood data in New York City will be collected from scraping the Wikipedia page. links given in the neighborhood section of the table will be visited via scraper, and find the population for each of them. Then data will be cleaned up and used to create a data frame containing borough, neighborhood and population.
+•	Neighborhood data in New York City will be collected from scraping the Wikipedia page.
+•links given in the neighborhood section of the table will be visited via scraper, and find the population for each of them. Then data will be cleaned up and used to create a      data frame containing borough, neighborhood and population.
 •	Hospitals per neighborhood information will be collected from foursquare API.
 •	We will collect bed and ICU capacity information from NYS Health Profile website. 
+
 
 
